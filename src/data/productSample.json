@@ -1,0 +1,1141 @@
+[
+  {
+    "id": 114,
+    "name": "2-K BITUDICHT",
+    "slug": "2-k-bitudicht",
+    "permalink": "https://ambratec.de/produkte/2-k-bitudicht/",
+    "date_created": "2017-12-06T14:28:33",
+    "date_created_gmt": "2017-12-06T13:28:33",
+    "date_modified": "2023-09-29T10:38:39",
+    "date_modified_gmt": "2023-09-29T08:38:39",
+    "type": "variable",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "0",
+    "regular_price": "",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 5,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": true,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 52,
+        "name": "Unkategorisiert",
+        "slug": "unkategorisiert"
+      }
+    ],
+    "tags": [],
+    "images": [
+      {
+        "id": 5315,
+        "date_created": "2020-09-17T13:30:55",
+        "date_created_gmt": "2020-09-17T09:30:55",
+        "date_modified": "2020-09-17T13:31:28",
+        "date_modified_gmt": "2020-09-17T09:31:28",
+        "src": "https://ambratec.de/wp-content/uploads/2017/12/ambratec-2-K-Bitudicht_18kg_Neu-EXP.png",
+        "name": "ambratec &#8211; 2-K Bitudicht",
+        "alt": ""
+      }
+    ],
+    "attributes": [
+      {
+        "id": 1,
+        "name": "Gebindeart",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": ["18kg Eimer"]
+      },
+      {
+        "id": 2,
+        "name": "Gebindegröße",
+        "position": 1,
+        "visible": false,
+        "variation": true,
+        "options": ["Individuelle Größe"]
+      }
+    ],
+    "default_attributes": [
+      {
+        "id": 1,
+        "name": "Gebindeart",
+        "option": "18kg-eimer"
+      },
+      {
+        "id": 2,
+        "name": "Gebindegröße",
+        "option": "individuelle-groesse"
+      }
+    ],
+    "variations": [2255],
+    "grouped_products": [],
+    "menu_order": 0,
+    "price_html": "",
+    "related_ids": [152, 126, 141, 130, 117],
+    "meta_data": [
+      {
+        "id": 5034,
+        "key": "_produkt_untertitel",
+        "value": "field_59f1f60cb0b63"
+      },
+      {
+        "id": 5035,
+        "key": "produkt_untertitel",
+        "value": "BITUMEN-REPARATURMISCHGUT"
+      },
+      {
+        "id": 5036,
+        "key": "_kurze_beschreibung",
+        "value": "field_59f1f613b0b64"
+      },
+      {
+        "id": 5037,
+        "key": "kurze_beschreibung",
+        "value": "<ul>\r\n \t<li class=\"p1\"><span class=\"s1\"> </span>2-Komponentenmaterial mit ausgezeichneten Aushärteeigenschaften und sehr kurzer Abbindezeit</li>\r\n \t<li class=\"p1\">Hohe Belastbarkeit</li>\r\n \t<li class=\"p1\">Kostensparendes Verfahren durch schnelle Reparaturzeit</li>\r\n</ul>"
+      },
+      {
+        "id": 5038,
+        "key": "_lange_beschreibung",
+        "value": "field_59f1f625b0b65"
+      },
+      {
+        "id": 5039,
+        "key": "lange_beschreibung",
+        "value": "<h2>Produktbeschreibung</h2>\r\n<p class=\"p1\"><a href=\"https://ambratec.de/produkte/2-k-bitudicht/\" target=\"_blank\" rel=\"noopener\">2-K BITUDICHT</a> ist ein 2-Komponenten-Bitumenmischgut zur Instandsetzung von Straßenbelägen. Besteht aus zwei Komponenten in exakt aufeinander abgestimmter Menge:</p>\r\n<p class=\"p1\">A Spezial-Bitumenemulsion mit einem Zusatz an Naturkautschuk und Haftvermittler</p>\r\n<p class=\"p1\">B Mineralmischgut aus Edelsplitt, Edelbrechsand und Füller</p>\r\n<p class=\"p1\">Haftet auf allen Bitumen- Stein- und Betonuntergründen, auch auf feuchten Flächen. Ist vielseitig einsetzbar, leicht in kaltem Zustand zu verarbeiten und in Randbereichen.</p>\r\n<p class=\"p1\"><strong>Technische Hinweise</strong></p>\r\n<p class=\"p1\">Verarbeitungszeit 5-10 Minuten, verkehrsfest nach ca. 30 Minuten. Material ist auf eine Verarbeitungstemperatur von 12-25° C eingestellt.</p>\r\n\r\n<h2></h2>\r\n<h2>Anwendung</h2>\r\n<p class=\"p1\">Zu bearbeitende Fläche von Staub und losen Teilchen befreien, (Flächenbegrenzung abkleben, wenn ein besonders sauberes Erscheinungsbild gewünscht wird). Untergrund anfeuchten.</p>"
+      },
+      {
+        "id": 5040,
+        "key": "_produkt_bilder",
+        "value": "field_59f1f64eb0b66"
+      },
+      {
+        "id": 5041,
+        "key": "produkt_bilder",
+        "value": "5315"
+      },
+      {
+        "id": 5042,
+        "key": "_produkt_datenblatt",
+        "value": "field_59f1f676b0b67"
+      },
+      {
+        "id": 5043,
+        "key": "_sicherheits_datenblatter",
+        "value": "field_59f1f685b0b68"
+      },
+      {
+        "id": 5045,
+        "key": "sicherheits_datenblatter",
+        "value": "1"
+      },
+      {
+        "id": 5046,
+        "key": "_wp_page_template",
+        "value": "default"
+      },
+      {
+        "id": 7068,
+        "key": "produkt_datenblatt",
+        "value": "5793"
+      },
+      {
+        "id": 21938,
+        "key": "weitere_downloads",
+        "value": ""
+      },
+      {
+        "id": 21939,
+        "key": "_weitere_downloads",
+        "value": "field_5a4d13330d43e"
+      },
+      {
+        "id": 21940,
+        "key": "weitere_passende_produkte",
+        "value": ["152", "151", "264"]
+      },
+      {
+        "id": 21941,
+        "key": "_weitere_passende_produkte",
+        "value": "field_5a4df084a3d0f"
+      },
+      {
+        "id": 45591,
+        "key": "sicherheits_datenblatter_0_sicherheits_datenblatt_titel",
+        "value": "Sicherheits Datenblatt"
+      },
+      {
+        "id": 45592,
+        "key": "_sicherheits_datenblatter_0_sicherheits_datenblatt_titel",
+        "value": "field_59f1f697b0b69"
+      },
+      {
+        "id": 45593,
+        "key": "sicherheits_datenblatter_0_sicherheits-datenblatt_link",
+        "value": "https://sichdatonline.chemical-check.de/Dokumente/26/610091_0003_01-11-2021_DE.pdf"
+      },
+      {
+        "id": 45594,
+        "key": "_sicherheits_datenblatter_0_sicherheits-datenblatt_link",
+        "value": "field_5a6731e6a5fbd"
+      },
+      {
+        "id": 94421,
+        "key": "produkt_icon",
+        "value": "6388"
+      },
+      {
+        "id": 94422,
+        "key": "_produkt_icon",
+        "value": "field_5aa137069bfca"
+      },
+      {
+        "id": 94423,
+        "key": "sicherheits_datenblatter_0_sdb_quelle",
+        "value": "file"
+      },
+      {
+        "id": 94424,
+        "key": "_sicherheits_datenblatter_0_sdb_quelle",
+        "value": "field_5a74495ba2a2d"
+      },
+      {
+        "id": 94425,
+        "key": "suchwort_synonyme",
+        "value": ""
+      },
+      {
+        "id": 94426,
+        "key": "_suchwort_synonyme",
+        "value": "field_5a7459238877d"
+      },
+      {
+        "id": 99773,
+        "key": "_product_meta_id",
+        "value": "1"
+      },
+      {
+        "id": 180736,
+        "key": "_unit_base",
+        "value": ""
+      },
+      {
+        "id": 180737,
+        "key": "_unit_product",
+        "value": ""
+      },
+      {
+        "id": 180738,
+        "key": "_unit_price_regular",
+        "value": ""
+      },
+      {
+        "id": 180739,
+        "key": "_unit_price_sale",
+        "value": ""
+      },
+      {
+        "id": 180740,
+        "key": "_unit_price",
+        "value": ""
+      },
+      {
+        "id": 180741,
+        "key": "_unit_price_auto",
+        "value": "no"
+      },
+      {
+        "id": 180743,
+        "key": "_free_shipping",
+        "value": "no"
+      },
+      {
+        "id": 180744,
+        "key": "_service",
+        "value": "no"
+      },
+      {
+        "id": 180745,
+        "key": "_differential_taxation",
+        "value": "no"
+      },
+      {
+        "id": 180746,
+        "key": "_mini_desc",
+        "value": ""
+      },
+      {
+        "id": 230997,
+        "key": "_ts_gtin",
+        "value": ""
+      },
+      {
+        "id": 230998,
+        "key": "_ts_mpn",
+        "value": ""
+      },
+      {
+        "id": 240036,
+        "key": "produkt_datenblatt_fr",
+        "value": ""
+      },
+      {
+        "id": 240037,
+        "key": "_produkt_datenblatt_fr",
+        "value": "field_5ca5f99dbcfe5"
+      },
+      {
+        "id": 240042,
+        "key": "sicherheits-datenblatter_fr",
+        "value": ""
+      },
+      {
+        "id": 240043,
+        "key": "_sicherheits-datenblatter_fr",
+        "value": "field_5ca5f9a8bcfe6"
+      },
+      {
+        "id": 240044,
+        "key": "weitere_downloads_fr",
+        "value": ""
+      },
+      {
+        "id": 240045,
+        "key": "_weitere_downloads_fr",
+        "value": "field_5ca5f9b3bcfea"
+      },
+      {
+        "id": 240046,
+        "key": "ansprechpartner_daten",
+        "value": ""
+      },
+      {
+        "id": 240047,
+        "key": "_ansprechpartner_daten",
+        "value": "field_5ca5f1ab04364"
+      },
+      {
+        "id": 240048,
+        "key": "ansprechpartner_bild",
+        "value": ""
+      },
+      {
+        "id": 240049,
+        "key": "_ansprechpartner_bild",
+        "value": "field_5ca5f1b604365"
+      },
+      {
+        "id": 284876,
+        "key": "_unit",
+        "value": ""
+      },
+      {
+        "id": 284877,
+        "key": "_sale_price_label",
+        "value": ""
+      },
+      {
+        "id": 284878,
+        "key": "_sale_price_regular_label",
+        "value": ""
+      },
+      {
+        "id": 284879,
+        "key": "_min_age",
+        "value": ""
+      },
+      {
+        "id": 363809,
+        "key": "_delivery_time_countries",
+        "value": []
+      },
+      {
+        "id": 363810,
+        "key": "_gzd_version",
+        "value": "3.7.2"
+      },
+      {
+        "id": 363811,
+        "key": "_hs_code",
+        "value": ""
+      },
+      {
+        "id": 363812,
+        "key": "_manufacture_country",
+        "value": "0"
+      },
+      {
+        "id": 407748,
+        "key": "burst_total_pageviews_count",
+        "value": "2531"
+      },
+      {
+        "id": 416416,
+        "key": "sicherheits_datenblatter_0_sicherheits_datenblatt_datei",
+        "value": "7104"
+      },
+      {
+        "id": 416417,
+        "key": "_sicherheits_datenblatter_0_sicherheits_datenblatt_datei",
+        "value": "field_5a74498ca2a2e"
+      },
+      {
+        "id": 416422,
+        "key": "cmplz_hide_cookiebanner",
+        "value": ""
+      },
+      {
+        "id": 416423,
+        "key": "_yoast_wpseo_content_score",
+        "value": "60"
+      },
+      {
+        "id": 416424,
+        "key": "_yoast_wpseo_estimated-reading-time-minutes",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v18.8 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>2-K BITUDICHT - ambratec</title>\n<!-- Nur für Administratoren: diese Seite zeigt keine Meta-Beschreibung, da bisher keine vorhanden ist. Verfasse entweder eine speziell für diese Seite oder gehe in das [SEO - Darstellung in der Suche]-Menü und richte eine Vorlage ein. -->\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ambratec.de/produkte/2-k-bitudicht/\" />\n<meta property=\"og:locale\" content=\"de_DE\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"2-K BITUDICHT - ambratec\" />\n<meta property=\"og:url\" content=\"https://ambratec.de/produkte/2-k-bitudicht/\" />\n<meta property=\"og:site_name\" content=\"ambratec\" />\n<meta property=\"article:modified_time\" content=\"2023-09-29T08:38:39+00:00\" />\n<meta property=\"og:image\" content=\"https://ambratec.de/wp-content/uploads/2017/12/ambratec-2-K-Bitudicht_18kg_Neu-EXP.png\" />\n\t<meta property=\"og:image:width\" content=\"2480\" />\n\t<meta property=\"og:image:height\" content=\"2480\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://ambratec.de/#website\",\"url\":\"https://ambratec.de/\",\"name\":\"ambratec\",\"description\":\"Facility-Chemie ist unser Element\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://ambratec.de/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"de-DE\"},{\"@type\":\"ImageObject\",\"inLanguage\":\"de-DE\",\"@id\":\"https://ambratec.de/produkte/2-k-bitudicht/#primaryimage\",\"url\":\"https://ambratec.de/wp-content/uploads/2017/12/ambratec-2-K-Bitudicht_18kg_Neu-EXP.png\",\"contentUrl\":\"https://ambratec.de/wp-content/uploads/2017/12/ambratec-2-K-Bitudicht_18kg_Neu-EXP.png\",\"width\":2480,\"height\":2480},{\"@type\":\"WebPage\",\"@id\":\"https://ambratec.de/produkte/2-k-bitudicht/#webpage\",\"url\":\"https://ambratec.de/produkte/2-k-bitudicht/\",\"name\":\"2-K BITUDICHT - ambratec\",\"isPartOf\":{\"@id\":\"https://ambratec.de/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://ambratec.de/produkte/2-k-bitudicht/#primaryimage\"},\"datePublished\":\"2017-12-06T13:28:33+00:00\",\"dateModified\":\"2023-09-29T08:38:39+00:00\",\"breadcrumb\":{\"@id\":\"https://ambratec.de/produkte/2-k-bitudicht/#breadcrumb\"},\"inLanguage\":\"de-DE\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://ambratec.de/produkte/2-k-bitudicht/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://ambratec.de/produkte/2-k-bitudicht/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Startseite\",\"item\":\"https://ambratec.de/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Shop\",\"item\":\"https://ambratec.de/shop/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"2-K BITUDICHT\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "2-K BITUDICHT - ambratec",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://ambratec.de/produkte/2-k-bitudicht/",
+      "og_locale": "de_DE",
+      "og_type": "article",
+      "og_title": "2-K BITUDICHT - ambratec",
+      "og_url": "https://ambratec.de/produkte/2-k-bitudicht/",
+      "og_site_name": "ambratec",
+      "article_modified_time": "2023-09-29T08:38:39+00:00",
+      "og_image": [
+        {
+          "width": 2480,
+          "height": 2480,
+          "url": "https://ambratec.de/wp-content/uploads/2017/12/ambratec-2-K-Bitudicht_18kg_Neu-EXP.png",
+          "type": "image/png"
+        }
+      ],
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://ambratec.de/#website",
+            "url": "https://ambratec.de/",
+            "name": "ambratec",
+            "description": "Facility-Chemie ist unser Element",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://ambratec.de/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "de-DE"
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "de-DE",
+            "@id": "https://ambratec.de/produkte/2-k-bitudicht/#primaryimage",
+            "url": "https://ambratec.de/wp-content/uploads/2017/12/ambratec-2-K-Bitudicht_18kg_Neu-EXP.png",
+            "contentUrl": "https://ambratec.de/wp-content/uploads/2017/12/ambratec-2-K-Bitudicht_18kg_Neu-EXP.png",
+            "width": 2480,
+            "height": 2480
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://ambratec.de/produkte/2-k-bitudicht/#webpage",
+            "url": "https://ambratec.de/produkte/2-k-bitudicht/",
+            "name": "2-K BITUDICHT - ambratec",
+            "isPartOf": {
+              "@id": "https://ambratec.de/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://ambratec.de/produkte/2-k-bitudicht/#primaryimage"
+            },
+            "datePublished": "2017-12-06T13:28:33+00:00",
+            "dateModified": "2023-09-29T08:38:39+00:00",
+            "breadcrumb": {
+              "@id": "https://ambratec.de/produkte/2-k-bitudicht/#breadcrumb"
+            },
+            "inLanguage": "de-DE",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": ["https://ambratec.de/produkte/2-k-bitudicht/"]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://ambratec.de/produkte/2-k-bitudicht/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Startseite",
+                "item": "https://ambratec.de/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Shop",
+                "item": "https://ambratec.de/shop/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "2-K BITUDICHT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "unit": [],
+    "unit_price": {
+      "base": "",
+      "product": "",
+      "price_auto": false,
+      "price": "",
+      "price_regular": "",
+      "price_sale": "",
+      "price_html": ""
+    },
+    "mini_desc": "",
+    "min_age": "",
+    "sale_price_label": [],
+    "sale_price_regular_label": [],
+    "delivery_time": [],
+    "country_specific_delivery_times": [],
+    "free_shipping": false,
+    "service": false,
+    "differential_taxation": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://ambratec.de/wp-json/wc/v3/products/114"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ambratec.de/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 1786,
+    "name": "CLEAN-WIPES",
+    "slug": "clean-wipes",
+    "permalink": "https://ambratec.de/produkte/clean-wipes/",
+    "date_created": "2022-01-12T08:00:43",
+    "date_created_gmt": "2022-01-12T07:00:43",
+    "date_modified": "2023-10-10T08:26:12",
+    "date_modified_gmt": "2023-10-10T06:26:12",
+    "type": "variable",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "0",
+    "regular_price": "",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 11,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 52,
+        "name": "Unkategorisiert",
+        "slug": "unkategorisiert"
+      }
+    ],
+    "tags": [],
+    "images": [
+      {
+        "id": 4733,
+        "date_created": "2020-04-22T09:47:30",
+        "date_created_gmt": "2020-04-22T05:47:30",
+        "date_modified": "2020-04-22T09:47:30",
+        "date_modified_gmt": "2020-04-22T05:47:30",
+        "src": "https://ambratec.de/wp-content/uploads/2018/04/CLEAN-WIPES-20-04-20.png",
+        "name": "CLEAN-WIPES-20-04-20",
+        "alt": ""
+      }
+    ],
+    "attributes": [
+      {
+        "id": 1,
+        "name": "Gebindeart",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": ["Eimer"]
+      },
+      {
+        "id": 2,
+        "name": "Gebindegröße",
+        "position": 1,
+        "visible": true,
+        "variation": true,
+        "options": ["Individuelle Größe"]
+      }
+    ],
+    "default_attributes": [],
+    "variations": [3108],
+    "grouped_products": [],
+    "menu_order": 0,
+    "price_html": "",
+    "related_ids": [121, 125, 142, 123, 131],
+    "meta_data": [
+      {
+        "id": 72778,
+        "key": "produkt_untertitel",
+        "value": "REINIGUNGSFEUCHTTÜCHER"
+      },
+      {
+        "id": 72779,
+        "key": "_produkt_untertitel",
+        "value": "field_59f1f60cb0b63"
+      },
+      {
+        "id": 72780,
+        "key": "kurze_beschreibung",
+        "value": "<ul>\r\n \t<li>Hohe Reinigungsleistung</li>\r\n \t<li>Vielseitig einsetzbar<span class=\"s1\"> </span></li>\r\n \t<li>Enthält Fettlöser</li>\r\n \t<li>Dermatologisch getestet</li>\r\n</ul>"
+      },
+      {
+        "id": 72781,
+        "key": "_kurze_beschreibung",
+        "value": "field_59f1f613b0b64"
+      },
+      {
+        "id": 72782,
+        "key": "lange_beschreibung",
+        "value": "<h2>Produktbeschreibung</h2>\r\n<p class=\"p1\"><a href=\"https://ambratec.de/produkte/clean-wipes/\" target=\"_blank\" rel=\"noopener\">CLEAN - WIPES</a> sind hochwertige Feuchttücher zur Reinigung von Oberflächen und Werkzeugen. Löst Fette, Öle, Bitumen, Kleber, Faserstifte, Lacke und Farben ohne Abrasives Verhalten. Universell einsetzbar auf nahezu allen Oberflächen, es ist keine zusätzliche Nachreinigung erforderlich.</p>\r\nDer patentierte Verschluss sorgt für leichte Tuchentnahme und verhindert das Austrocknen der Tücher. Zur sicheren Lagerung sind die Tücher im Auslieferungszustand in einem extra Beutel verschweißt.\r\n<h2>Anwendung</h2>\r\n<p class=\"p1\">Vor der ersten Anwendung Deckel abschrauben und Folienbeutel komplett aufschneiden. Das Tuchende aus dem Mittelkern der Rolle greifen und durch den geöffneten Schnellverschluss führen.</p>\r\n<p class=\"p1\">Danach den Schraubdeckel wieder aufschrauben, fertig!</p>"
+      },
+      {
+        "id": 72783,
+        "key": "_lange_beschreibung",
+        "value": "field_59f1f625b0b65"
+      },
+      {
+        "id": 72784,
+        "key": "produkt_bilder",
+        "value": "4733"
+      },
+      {
+        "id": 72785,
+        "key": "_produkt_bilder",
+        "value": "field_59f1f64eb0b66"
+      },
+      {
+        "id": 72786,
+        "key": "produkt_datenblatt",
+        "value": "5829"
+      },
+      {
+        "id": 72787,
+        "key": "_produkt_datenblatt",
+        "value": "field_59f1f676b0b67"
+      },
+      {
+        "id": 72788,
+        "key": "sicherheits_datenblatter",
+        "value": "1"
+      },
+      {
+        "id": 72789,
+        "key": "_sicherheits_datenblatter",
+        "value": "field_59f1f685b0b68"
+      },
+      {
+        "id": 72790,
+        "key": "weitere_downloads",
+        "value": ""
+      },
+      {
+        "id": 72791,
+        "key": "_weitere_downloads",
+        "value": "field_5a4d13330d43e"
+      },
+      {
+        "id": 72792,
+        "key": "weitere_passende_produkte",
+        "value": ["130", "131", "180"]
+      },
+      {
+        "id": 72793,
+        "key": "_weitere_passende_produkte",
+        "value": "field_5a4df084a3d0f"
+      },
+      {
+        "id": 72794,
+        "key": "suchwort_synonyme",
+        "value": ""
+      },
+      {
+        "id": 72795,
+        "key": "_suchwort_synonyme",
+        "value": "field_5a7459238877d"
+      },
+      {
+        "id": 81839,
+        "key": "produkt_icon",
+        "value": "6405"
+      },
+      {
+        "id": 81840,
+        "key": "_produkt_icon",
+        "value": "field_5aa137069bfca"
+      },
+      {
+        "id": 81841,
+        "key": "sicherheits_datenblatter_0_sdb_quelle",
+        "value": "file"
+      },
+      {
+        "id": 81842,
+        "key": "_sicherheits_datenblatter_0_sdb_quelle",
+        "value": "field_5a74495ba2a2d"
+      },
+      {
+        "id": 81843,
+        "key": "sicherheits_datenblatter_0_sicherheits-datenblatt_link",
+        "value": "https://sichdatonline.chemical-check.de/Dokumente/26/97944_0002_01-11-2021_DE.pdf"
+      },
+      {
+        "id": 81844,
+        "key": "_sicherheits_datenblatter_0_sicherheits-datenblatt_link",
+        "value": "field_5a6731e6a5fbd"
+      },
+      {
+        "id": 103668,
+        "key": "_product_meta_id",
+        "value": "1"
+      },
+      {
+        "id": 220267,
+        "key": "_unit_base",
+        "value": ""
+      },
+      {
+        "id": 220268,
+        "key": "_unit_product",
+        "value": ""
+      },
+      {
+        "id": 220269,
+        "key": "_unit_price_regular",
+        "value": ""
+      },
+      {
+        "id": 220270,
+        "key": "_unit_price_sale",
+        "value": ""
+      },
+      {
+        "id": 220271,
+        "key": "_unit_price",
+        "value": ""
+      },
+      {
+        "id": 220272,
+        "key": "_unit_price_auto",
+        "value": "no"
+      },
+      {
+        "id": 220274,
+        "key": "_free_shipping",
+        "value": "no"
+      },
+      {
+        "id": 220275,
+        "key": "_service",
+        "value": "no"
+      },
+      {
+        "id": 220276,
+        "key": "_differential_taxation",
+        "value": "no"
+      },
+      {
+        "id": 220277,
+        "key": "_mini_desc",
+        "value": ""
+      },
+      {
+        "id": 248058,
+        "key": "_ts_gtin",
+        "value": ""
+      },
+      {
+        "id": 248059,
+        "key": "_ts_mpn",
+        "value": ""
+      },
+      {
+        "id": 248060,
+        "key": "produkt_datenblatt_fr",
+        "value": ""
+      },
+      {
+        "id": 248061,
+        "key": "_produkt_datenblatt_fr",
+        "value": "field_5ca5f99dbcfe5"
+      },
+      {
+        "id": 248062,
+        "key": "sicherheits-datenblatter_fr_0_sdb_quelle_fr",
+        "value": "url"
+      },
+      {
+        "id": 248063,
+        "key": "_sicherheits-datenblatter_fr_0_sdb_quelle_fr",
+        "value": "field_5ca5f9a8bcfe7"
+      },
+      {
+        "id": 248064,
+        "key": "sicherheits-datenblatter_fr_0_sicherheits-datenblatt_link_fr",
+        "value": "https://sichdatonline.chemical-check.de/Dokumente/26/97944_0001_04-02-2020_FR.pdf"
+      },
+      {
+        "id": 248065,
+        "key": "_sicherheits-datenblatter_fr_0_sicherheits-datenblatt_link_fr",
+        "value": "field_5ca5f9a8bcfe8"
+      },
+      {
+        "id": 248066,
+        "key": "sicherheits-datenblatter_fr",
+        "value": "1"
+      },
+      {
+        "id": 248067,
+        "key": "_sicherheits-datenblatter_fr",
+        "value": "field_5ca5f9a8bcfe6"
+      },
+      {
+        "id": 248068,
+        "key": "weitere_downloads_fr",
+        "value": ""
+      },
+      {
+        "id": 248069,
+        "key": "_weitere_downloads_fr",
+        "value": "field_5ca5f9b3bcfea"
+      },
+      {
+        "id": 248070,
+        "key": "ansprechpartner_daten",
+        "value": ""
+      },
+      {
+        "id": 248071,
+        "key": "_ansprechpartner_daten",
+        "value": "field_5ca5f1ab04364"
+      },
+      {
+        "id": 248072,
+        "key": "ansprechpartner_bild",
+        "value": ""
+      },
+      {
+        "id": 248073,
+        "key": "_ansprechpartner_bild",
+        "value": "field_5ca5f1b604365"
+      },
+      {
+        "id": 265327,
+        "key": "_unit",
+        "value": ""
+      },
+      {
+        "id": 265328,
+        "key": "_sale_price_label",
+        "value": ""
+      },
+      {
+        "id": 265329,
+        "key": "_sale_price_regular_label",
+        "value": ""
+      },
+      {
+        "id": 265330,
+        "key": "_min_age",
+        "value": ""
+      },
+      {
+        "id": 352359,
+        "key": "_delivery_time_countries",
+        "value": []
+      },
+      {
+        "id": 352360,
+        "key": "_gzd_version",
+        "value": "3.7.2"
+      },
+      {
+        "id": 352361,
+        "key": "_hs_code",
+        "value": ""
+      },
+      {
+        "id": 352362,
+        "key": "_manufacture_country",
+        "value": "0"
+      },
+      {
+        "id": 407752,
+        "key": "burst_total_pageviews_count",
+        "value": "654"
+      },
+      {
+        "id": 417251,
+        "key": "sicherheits_datenblatter_0_sicherheits_datenblatt_datei",
+        "value": "7254"
+      },
+      {
+        "id": 417252,
+        "key": "_sicherheits_datenblatter_0_sicherheits_datenblatt_datei",
+        "value": "field_5a74498ca2a2e"
+      },
+      {
+        "id": 417253,
+        "key": "_yoast_wpseo_content_score",
+        "value": "60"
+      },
+      {
+        "id": 417254,
+        "key": "_yoast_wpseo_estimated-reading-time-minutes",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v18.8 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>CLEAN-WIPES - ambratec</title>\n<!-- Nur für Administratoren: diese Seite zeigt keine Meta-Beschreibung, da bisher keine vorhanden ist. Verfasse entweder eine speziell für diese Seite oder gehe in das [SEO - Darstellung in der Suche]-Menü und richte eine Vorlage ein. -->\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://ambratec.de/produkte/clean-wipes/\" />\n<meta property=\"og:locale\" content=\"de_DE\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"CLEAN-WIPES - ambratec\" />\n<meta property=\"og:url\" content=\"https://ambratec.de/produkte/clean-wipes/\" />\n<meta property=\"og:site_name\" content=\"ambratec\" />\n<meta property=\"article:modified_time\" content=\"2023-10-10T06:26:12+00:00\" />\n<meta property=\"og:image\" content=\"https://ambratec.de/wp-content/uploads/2018/04/CLEAN-WIPES-20-04-20.png\" />\n\t<meta property=\"og:image:width\" content=\"963\" />\n\t<meta property=\"og:image:height\" content=\"1260\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://ambratec.de/#website\",\"url\":\"https://ambratec.de/\",\"name\":\"ambratec\",\"description\":\"Facility-Chemie ist unser Element\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://ambratec.de/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"de-DE\"},{\"@type\":\"ImageObject\",\"inLanguage\":\"de-DE\",\"@id\":\"https://ambratec.de/produkte/clean-wipes/#primaryimage\",\"url\":\"https://ambratec.de/wp-content/uploads/2018/04/CLEAN-WIPES-20-04-20.png\",\"contentUrl\":\"https://ambratec.de/wp-content/uploads/2018/04/CLEAN-WIPES-20-04-20.png\",\"width\":963,\"height\":1260},{\"@type\":\"WebPage\",\"@id\":\"https://ambratec.de/produkte/clean-wipes/#webpage\",\"url\":\"https://ambratec.de/produkte/clean-wipes/\",\"name\":\"CLEAN-WIPES - ambratec\",\"isPartOf\":{\"@id\":\"https://ambratec.de/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://ambratec.de/produkte/clean-wipes/#primaryimage\"},\"datePublished\":\"2022-01-12T07:00:43+00:00\",\"dateModified\":\"2023-10-10T06:26:12+00:00\",\"breadcrumb\":{\"@id\":\"https://ambratec.de/produkte/clean-wipes/#breadcrumb\"},\"inLanguage\":\"de-DE\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://ambratec.de/produkte/clean-wipes/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://ambratec.de/produkte/clean-wipes/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Startseite\",\"item\":\"https://ambratec.de/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Shop\",\"item\":\"https://ambratec.de/shop/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"CLEAN-WIPES\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "CLEAN-WIPES - ambratec",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://ambratec.de/produkte/clean-wipes/",
+      "og_locale": "de_DE",
+      "og_type": "article",
+      "og_title": "CLEAN-WIPES - ambratec",
+      "og_url": "https://ambratec.de/produkte/clean-wipes/",
+      "og_site_name": "ambratec",
+      "article_modified_time": "2023-10-10T06:26:12+00:00",
+      "og_image": [
+        {
+          "width": 963,
+          "height": 1260,
+          "url": "https://ambratec.de/wp-content/uploads/2018/04/CLEAN-WIPES-20-04-20.png",
+          "type": "image/png"
+        }
+      ],
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://ambratec.de/#website",
+            "url": "https://ambratec.de/",
+            "name": "ambratec",
+            "description": "Facility-Chemie ist unser Element",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://ambratec.de/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "de-DE"
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "de-DE",
+            "@id": "https://ambratec.de/produkte/clean-wipes/#primaryimage",
+            "url": "https://ambratec.de/wp-content/uploads/2018/04/CLEAN-WIPES-20-04-20.png",
+            "contentUrl": "https://ambratec.de/wp-content/uploads/2018/04/CLEAN-WIPES-20-04-20.png",
+            "width": 963,
+            "height": 1260
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://ambratec.de/produkte/clean-wipes/#webpage",
+            "url": "https://ambratec.de/produkte/clean-wipes/",
+            "name": "CLEAN-WIPES - ambratec",
+            "isPartOf": {
+              "@id": "https://ambratec.de/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://ambratec.de/produkte/clean-wipes/#primaryimage"
+            },
+            "datePublished": "2022-01-12T07:00:43+00:00",
+            "dateModified": "2023-10-10T06:26:12+00:00",
+            "breadcrumb": {
+              "@id": "https://ambratec.de/produkte/clean-wipes/#breadcrumb"
+            },
+            "inLanguage": "de-DE",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": ["https://ambratec.de/produkte/clean-wipes/"]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://ambratec.de/produkte/clean-wipes/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Startseite",
+                "item": "https://ambratec.de/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Shop",
+                "item": "https://ambratec.de/shop/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "CLEAN-WIPES"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "unit": [],
+    "unit_price": {
+      "base": "",
+      "product": "",
+      "price_auto": false,
+      "price": "",
+      "price_regular": "",
+      "price_sale": "",
+      "price_html": ""
+    },
+    "mini_desc": "",
+    "min_age": "",
+    "sale_price_label": [],
+    "sale_price_regular_label": [],
+    "delivery_time": [],
+    "country_specific_delivery_times": [],
+    "free_shipping": false,
+    "service": false,
+    "differential_taxation": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://ambratec.de/wp-json/wc/v3/products/1786"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ambratec.de/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  }
+]
